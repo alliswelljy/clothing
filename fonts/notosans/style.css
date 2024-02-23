@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('notokr-regular.eot');
+    src: url('notokr-regular.eot?#iefix') format('embedded-opentype'),
+         url('notokr-regular.woff2') format('woff2'),
+         url('notokr-regular.woff') format('woff'),
+         url('NotoSansCJKkr-Regular.otf') format('opentype'),
+         url('notokr-regular.svg#notokr-regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('notokr-bold.eot');
+    src: url('notokr-bold.eot?#iefix') format('embedded-opentype'),
+         url('notokr-bold.woff2') format('woff2'),
+         url('notokr-bold.woff') format('woff'),
+         url('NotoSansCJKkr-Bold.otf') format('opentype'),
+         url('notokr-bold.svg#notokr-bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('notokr-medium.eot');
+    src: url('notokr-medium.eot?#iefix') format('embedded-opentype'),
+         url('notokr-medium.woff2') format('woff2'),
+         url('notokr-medium.woff') format('woff'),
+         url('NotoSansCJKkr-Medium.otf') format('opentype'),
+         url('notokr-medium.svg#notokr-medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('notokr-demilight.eot');
+    src: url('notokr-demilight.eot?#iefix') format('embedded-opentype'),
+         url('notokr-demilight.woff') format('woff'),
+         url('notokr-demilight.svg#notokr-demilight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LAB디지털';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/LAB디지털.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
